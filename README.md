@@ -1,16 +1,19 @@
-## Hi there 👋
+![Guido Riaño - Backend Developer](https://github.com/user-attachments/assets/61a41240-3734-4131-ab91-4a395c244e27)
+## Hola, soy Guido
 
-<!--
-**guidoriao/guidoriao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack & Mobile Developer - Colombia
 
-Here are some ideas to get you started:
+Building robust web and mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/guidoriao/) - [X](https://x.com/Guidoriao)
+
+---
+
+### Stack
+
+
+![Stack](https://skillicons.dev/icons?i=java,python,kotlin,angular,spring,androidstudio&theme=dark)
+
+---
+
+![snake](https://raw.githubusercontent.com/Juanrz24/Juanrz24/output/snake-dark.svg)
